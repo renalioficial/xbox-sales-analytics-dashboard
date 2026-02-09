@@ -40,5 +40,8 @@ O projeto foi organizado para garantir a integridade dos dados e facilidade de a
 1.  Baixe o arquivo `.xlsx`.
 2.  Use os botões de filtro (Slicers) à esquerda para ver os dados de períodos ou tipos de contratos específicos.
 
+<img width="1365" height="716" alt="Print sales xbox game pass" src="https://github.com/user-attachments/assets/f5b3f01c-fea6-48d8-a097-03548541a56c" />
+
+
 ---
 
