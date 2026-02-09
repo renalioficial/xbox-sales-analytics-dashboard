@@ -9,6 +9,7 @@ Este projeto apresenta um Dashboard de Vendas desenvolvido no Excel para acompan
 
 O objetivo foi consolidar dados de assinantes em uma visão única, permitindo analisar o faturamento por tipo de plano e o impacto da venda de serviços extras (Add-ons).
 
+
 ### 🎯 O que o Dashboard Analisa?
 Com base na base de dados transacional, o painel responde às seguintes perguntas:
 1.  **Volume de Vendas:** Qual o valor total gerado pelas assinaturas?
@@ -40,4 +41,7 @@ O projeto foi organizado para garantir a integridade dos dados e facilidade de a
 1.  Baixe o arquivo `.xlsx`.
 2.  Use os botões de filtro (Slicers) à esquerda para ver os dados de períodos ou tipos de contratos específicos.
 
+<img width="1365" height="716" alt="Print sales xbox game pass" src="https://github.com/user-attachments/assets/2a99f858-0c40-4786-a065-151f5dd8db2e" />
+
 ---
+
